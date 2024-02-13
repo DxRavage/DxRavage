@@ -10,7 +10,7 @@
 
 - 📚 Learning responsive design, UX/UI
 
-- 💼 Portfolio in process: [m.avila.is-a.dev](https://dxravage.github.io)
+- 💼 Portfolio in process: [dxravage.io](https://dxravage.github.io)
 
 - 💪🏼 Goals: Graduating in early 2025🎓, learning more about backend and dynamic websites.
 
