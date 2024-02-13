@@ -1,5 +1,5 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
-<h1 align="center">Hello there! ✌️ I'm <a href="m-avila.is-a.dev">Mariano Avila</a> - aka Ravage</h1>
+<h1 align="center">Hello there! ✌️ I'm <a href="(https://dxravage.github.io)">Mariano Avila</a> - aka Ravage</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=500&size=25&pause=1000&color=5D44F7&center=true&random=false&width=950&lines=Welcome+to+my+Profile!+;Software+Engineering+Student;Full+Stack+Web+Dev;Freelancer)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -10,7 +10,7 @@
 
 - 📚 Learning responsive design, UX/UI
 
-- 💼 Portfolio in process: [m.avila.is-a.dev](m.avila.is-a.dev)
+- 💼 Portfolio in process: [m.avila.is-a.dev](https://dxravage.github.io)
 
 - 💪🏼 Goals: Graduating in early 2025🎓, learning more about backend and dynamic websites.
 
