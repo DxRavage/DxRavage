@@ -12,7 +12,7 @@
 
 - 💼 Portfolio in process: [dxravage.io](https://dxravage.github.io)
 
-- 💪🏼 Goals: Graduating in early 2025🎓, learning more about backend and dynamic websites.
+- 💪🏼 Goals: Graduating by the end of 2024🎓, learning more about backend technologies and cloud service.
 
 - 📫 How to reach me **marianoavilaj4@gmail.com**
 
