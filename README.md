@@ -2,8 +2,6 @@
 
 <h1 align="center">Mariano Avila (Ravage)</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=500&size=20&pause=1000&color=5D44F7&center=true&random=false&width=950&lines=Software+Engineering+Student;Full+Stack+Web+Developer)](https://git.io/typing-svg)
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3>About Me</h3>
@@ -80,8 +78,6 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dxravage&" alt="dxravage" /></p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxravage&layout=compact)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--
