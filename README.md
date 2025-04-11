@@ -2,8 +2,6 @@
 
 <h1 align="center">Mariano Avila (Ravage)</h1>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <h3>About Me</h3>
 
 -   👨‍💻 Full-stack web developer with a focus on modern technologies like **Astro, TypeScript, Tailwind CSS, and React.**
@@ -79,7 +77,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dxravage&" alt="dxravage" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--
 **DxRavage/DxRavage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
